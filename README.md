@@ -52,7 +52,5 @@ We predict labels for the test data using the trained model and calculate the ac
 
 ## Dataset
 
-The dataset used in this project contains news articles labeled as either "FAKE" or "REAL". It is available in CSV format.
-
-## License
+The dataset used in this project contains news articles labeled as either "FAKE" or "REAL". It is available in CSV format. From Kaggle.
 
